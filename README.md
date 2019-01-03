@@ -1,4 +1,5 @@
 # Hackerrank
+Python3 was used to solve 30 Days of Code
 
 ## 30 Days of Code
 Day | Topic | Solution
