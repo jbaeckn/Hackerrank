@@ -43,3 +43,5 @@ Basic Select | [Weather Observation Station 12](https://www.hackerrank.com/chall
 Basic Select | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [solution.sql](https://github.com/jbaeckn/Hackerrank/blob/master/SQL/Basic_Select/higher_75marks.sql)
 Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [solution.sql](https://github.com/jbaeckn/Hackerrank/blob/master/SQL/Basic_Select/employee_name.sql)
 Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [solution.sql](https://github.com/jbaeckn/Hackerrank/blob/master/SQL/Basic_Select/employee_salaries.sql)
+Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [solution.sql](https://github.com/jbaeckn/Hackerrank/blob/master/SQL/Basic_Join/asian_population.sql)
+Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [solution.sql](https://github.com/jbaeckn/Hackerrank/blob/master/SQL/Basic_Join/african_cities.sql)
