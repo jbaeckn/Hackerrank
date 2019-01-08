@@ -48,3 +48,5 @@ Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-citi
 Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [solution.sql](https://github.com/jbaeckn/Hackerrank/blob/master/SQL/Basic_Join/avg_pop_continent.sql)
 Basic Join | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | [solution.sql](https://github.com/jbaeckn/Hackerrank/blob/master/SQL/Basic_Join/the_report.sql)
 Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [solution.sql](https://github.com/jbaeckn/Hackerrank/blob/master/SQL/Basic_Join/top_competitors.sql)
+Advanced Select | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [solution.sql](https://github.com/jbaeckn/Hackerrank/blob/master/SQL/Advanced_Select/type_of_triangle.sql)
+Advanced Select | [The Pads](https://www.hackerrank.com/challenges/the-pads/problem) | [solution.sql](https://github.com/jbaeckn/Hackerrank/blob/master/SQL/Advanced_Select/thepads.sql)
