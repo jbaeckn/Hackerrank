@@ -45,3 +45,4 @@ Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-em
 Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [solution.sql](https://github.com/jbaeckn/Hackerrank/blob/master/SQL/Basic_Select/employee_salaries.sql)
 Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [solution.sql](https://github.com/jbaeckn/Hackerrank/blob/master/SQL/Basic_Join/asian_population.sql)
 Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [solution.sql](https://github.com/jbaeckn/Hackerrank/blob/master/SQL/Basic_Join/african_cities.sql)
+Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [solution.sql](https://github.com/jbaeckn/Hackerrank/blob/master/SQL/Basic_Join/avg_pop_continent.sql)
